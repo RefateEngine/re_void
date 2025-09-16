@@ -1,0 +1,11 @@
+{
+  "generator": {
+      "type": "minecraft:flat",
+      "settings": {
+          "layers": [
+          ],
+          "biome": "minecraft:the_void"
+      }
+  },
+  "type": "dimension:re_void"
+}

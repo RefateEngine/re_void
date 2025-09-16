@@ -1,0 +1,1 @@
+execute in dimension:re_void run setblock 0 0 0 orange_shulker_box
